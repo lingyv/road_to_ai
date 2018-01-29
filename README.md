@@ -17,4 +17,4 @@
 - [Deep Learning -吴恩达](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 - [动手学深度学习](http://zh.gluon.ai/)
 - [机器学习 -李宏毅](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)[中文版](http://www.tensorfly.cn/home/?cat=4)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)([中文版](http://www.tensorfly.cn/home/?cat=4))
